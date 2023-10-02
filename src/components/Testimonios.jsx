@@ -1,6 +1,6 @@
 import { feedback } from "../constants"
 import styles from "../style"
-import Feedbackcard from "./FeedbackCard"
+import FeedbackCard from "./FeedbackCard"
 
 const Testimonios = () => (
     <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
@@ -14,7 +14,7 @@ const Testimonios = () => (
       </div>
       <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z">
         {feedback.map((card)=>(
-          <Feedbackcard key={card.id} {...card}/>
+          <FeedbackCard key={card.id} {...card}/>
         ))}
 
       </div>
