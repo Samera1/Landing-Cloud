@@ -20,8 +20,8 @@ const FeatureCard = ({icon, title, content, index }) =>(
 const Bussines = () =>(
     <section id='features' className={layout.section}>
         <div className={layout.sectionInfo}>
-            <h2 className={styles.heading2}>You do the business,<br className='sm:block hidden'/> well handle the money.</h2>
-            <p className={`${styles.paragraph} max-w-[470px] mt-5 mb-5`}>With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.</p>
+            <h2 className={styles.heading2}>Te ayudamos a crecer,<br className='sm:block hidden'/> mientras ganas dinero.</h2>
+            <p className={`${styles.paragraph} max-w-[600px] mt-5 mb-5`}>Impulsamos el crecimiento de tu negocio con estrategias de marketing basadas en datos, optimización de SEO, publicidad en redes sociales, marketing de contenidos y automatización de marketing. Nuestro enfoque integral garantiza resultados sostenibles y un alto retorno de inversión..</p>
             <Button styles="mt-100"/>
         </div>
         <div className={`${layout.sectionImg} flex-col`}>
