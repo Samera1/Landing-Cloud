@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Investigación",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Utilizamos herramientas avanzadas y metodologías innovadoras para recopilar datos valiosos que revelan patrones y oportunidades ocultas.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "Desarrollo",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      " Diseñamos campañas y tácticas innovadoras que no solo capturan la atención, sino que también impulsan resultados tangibles.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Implementación",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Con una planificación meticulosa y una ejecución precisa, lanzamos campañas que están diseñadas para generar resultados inmediatos y sostenibles.",
   },
 ];
 

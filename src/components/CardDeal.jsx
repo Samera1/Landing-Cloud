@@ -6,10 +6,10 @@ const CardDeal = () => (
     <section className={layout.section}>
       <div> className={layout.sectionInfo}
        <h2 className={styles.heading2}>
-       Find a better card deal <br className='sm:block hidden'/> in few easy steps.
+       Controla todas tus  <br className='sm:block hidden'/> metricas.
        </h2>
        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+       Te llevamos al siguiente nivel controlando todas las métricas e insights clave. Transformamos datos en estrategias de marketing efectivas que maximizan tu crecimiento.
        </p>
        <Button styles="mt-10"/>
       </div>

@@ -16,7 +16,7 @@ const Hero = () => (
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
           La Siguiente <br className="sm:block hidden"/>
           {"  "}
-          <span className="text-gradient">Generacion</span> {" "}
+          <span className="text-gradient">Generación</span> {" "}
           </h1>
         </div>
         <div className="flex flex-row justify-between items-center w-full"></div>
